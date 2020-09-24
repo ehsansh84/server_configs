@@ -1,5 +1,6 @@
 apt update
 apt install -y vim
+apt install -y tmux
 apt install -y screenfetch
 apt install -y curl
 apt install -y git
